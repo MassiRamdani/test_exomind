@@ -1,16 +1,27 @@
-# test_exomind
+# Test exomind
 
-A new Flutter project.
+Application meteo.
 
-## Getting Started
+## Capture d'écran
 
-This project is a starting point for a Flutter application.
+## Développé par
 
-A few resources to get you started if this is your first Flutter project:
+Massinissa RAMDANI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Packages utilisés
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Packages principaux :**
+
+- `get` : Le package GetX pour la gestion de l'état, de la navigation et de l'injection de dépendances.
+
+- `dio` : Un package HTTP pour effectuer des requêtes réseau dans votre application Flutter.
+
+- `json_annotation` : Un package pour l'annotation JSON des classes de modèle de données.
+
+- `loading_animation_widget` : Un package personnalisé qui pourrait contenir un composant d'animation de chargement.
+
+**Dépendances de développement :**
+
+- `build_runner` : Un outil de génération de code pour générer du code Dart à partir d'annotations dans le projet.
+
+- `json_serializable` : Une dépendance de développement utilisée avec `build_runner` pour générer du code de sérialisation/désérialisation JSON.
