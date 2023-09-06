@@ -30,3 +30,13 @@ Application meteo.
 ## Bonus
 
 - Ajout d'une animation de chargement (loader animé) à la page de progression de l'application pour une meilleure expérience utilisateur.
+
+## Note (Raison de temps)
+
+- **Compatibilités d'écran non gérées** : L'application ne prend pas en charge différents formats d'écran, ce qui peut entraîner des problèmes d'affichage sur certains appareils.
+
+- **Icon de l'application non géré** : L'icône de l'application n'a pas été personnalisée, elle affiche probablement l'icône par défaut de Flutter.
+
+- **Splash screen non géré** : Il n'y a pas d'écran de démarrage (splash screen) personnalisé.  
+ 
+- **Signature de l'application non gérée** : L'application ne comporte pas de signature personnalisée ou de crédits d'auteur.
