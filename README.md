@@ -3,7 +3,7 @@
 Application meteo.
 
 ## Capture d'écran
-![Capture d'écran]([https://example.com/mon-image.png](https://raw.githubusercontent.com/MassiRamdani/test_exomind/main/assets/Samsung%20Galaxy%20Note%2010%20Presentation.png))
+![Capture d'écran](https://github.com/MassiRamdani/test_exomind/blob/main/assets/Samsung%20Galaxy%20Note%2010%20Presentation.png)
 
 ## Développé par
 
