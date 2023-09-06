@@ -7,7 +7,7 @@ Application meteo.
 
 ## Développé par
 
-Massinissa RAMDANI
+**Massinissa RAMDANI**
 
 ## Packages utilisés
 
@@ -26,3 +26,7 @@ Massinissa RAMDANI
 - `build_runner` : Un outil de génération de code pour générer du code Dart à partir d'annotations dans le projet.
 
 - `json_serializable` : Une dépendance de développement utilisée avec `build_runner` pour générer du code de sérialisation/désérialisation JSON.
+
+## Bonus
+
+- Ajout d'une animation de chargement (loader animé) à la page de progression de l'application pour une meilleure expérience utilisateur.
